@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\User\Desktop\GIT\mp2-lab1-set-1\src\tbitfield.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\Desktop\GIT\mp2-lab1-set-1\src\tset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\User\Desktop\GIT\mp2-lab1-set-1\include\tbitfield.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\GIT\mp2-lab1-set-1\include\tset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\GIT\mp2-lab1-set-1\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DD88539B-F02D-3B8B-83E3-F4E584C9E82C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FB6E7925-2DC5-3158-A13E-81AD27989235}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
